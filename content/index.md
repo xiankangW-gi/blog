@@ -16,4 +16,6 @@ While you’re here, check out my [research](research), my [software](software),
 ### Blog
 Most recent post: **[2026-02-13 — Reconciling Capital-Embodied Progress with Uzawa](blog/2026-02-13-uzawa-capital-embodied)**
 
-And finally an obligatory photo: ![](D:\想学摄影但没相机260122.jpg)
+A small personal touch — a favorite album cover:
+
+![](assets/index_pic.png)
