@@ -14,7 +14,7 @@ While you’re here, check out my [research](research), my [software](software),
 - **[project-name](software/project-name)**: what it does in one sentence.
 
 ### Blog
-Most recent post: **[2026-02-13 — Reconciling Capital-Embodied Progress with Uzawa](blog/2026-02-13-uzawa-capital-embodied)**
+Most recent post: **[2026-02-13 — Reconciling Capital-Embodied Progress with Uzawa](blog\2026-02-13-Reconciling-Capital-Embodied-Progress-with-Uzawa-on-a-BGP.md)**
 
 A small personal touch — a favorite album cover:
 
