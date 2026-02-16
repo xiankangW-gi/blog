@@ -1,4 +1,4 @@
-# A Simple Framework for News & Policy Text Analysis
+
 
 - **GitHub**: https://github.com/xiankangW-gi/A-Simple-Framework-for-News-Policy-Text-Analysis
 - **Stars**: ⭐ 47 (last checked: 2026-02-16)

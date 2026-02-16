@@ -11,7 +11,7 @@ While you’re here, check out my [research](research), my [software](software),
 - **[A Working Paper Title](research/working-paper-title)**: one-sentence description of the question + takeaway.
 
 ### Software
-- **[A-Simple-Framework-for-News-Policy-Text-Analysis](Software/Software\A-Simple-Framework-for-News-Policy-Text-Analysis.md)**: A lightweight, China-focused Python toolkit for collecting and processing **news** and **policy** text data.
+- **[A-Simple-Framework-for-News-Policy-Text-Analysis](Software\A-Simple-Framework-for-News-Policy-Text-Analysis.md)**: A lightweight, China-focused Python toolkit for collecting and processing **news** and **policy** text data.
 
 ### Blog
 Most recent post: **[2026-02-13 — Reconciling Capital-Embodied Progress with Uzawa](blog\2026-02-13-Reconciling-Capital-Embodied-Progress-with-Uzawa-on-a-BGP.md)**
