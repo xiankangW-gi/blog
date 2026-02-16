@@ -1,17 +1,12 @@
-# 📚 Paper Reading List
+
 
 > **Legend:**
 > 📖 **Reading** | ✅ **Finished** | 📅 **Backlog** | 💡 **Idea/Insight**
 
 ## 📖 In Progress (正在读)
 
-### [Paper Title 1: Attention is All You Need](LINK_TO_PDF)
-- **Authors:** Vaswani et al.
-- **Venue:** NeurIPS 2017
-- **Code:** [Official](LINK) | [PyTorch](LINK)
-- **Notes:**
-  - 核心提出了 Transformer 架构。
-  - 抛弃了 RNN 和 CNN，完全基于 Self-Attention。
+### [Fiscal inaction as monetary support ]([economics.mit.edu/sites/default/files/2025-12/mpfp.pdf](https://economics.mit.edu/sites/default/files/2025-12/mpfp.pdf))
+
 
 ---
 
